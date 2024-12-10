@@ -1,3 +1,5 @@
+ ### Stats 📈
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tr3sp4ss3rexe&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tr3sp4ss3rexe&layout=compact)
