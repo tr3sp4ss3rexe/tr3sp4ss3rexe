@@ -3,10 +3,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tr3sp4ss3rexe&layout=compact)
 
 <div id="badges">
-  <a href="linkedin.com/in/danielthedaniel">
+  <a href="https://linkedin.com/in/danielthedaniel">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="t.me/Uncletr3s">
+  <a href="https://t.me/Uncletr3s">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="">
