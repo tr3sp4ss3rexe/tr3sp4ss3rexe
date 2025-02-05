@@ -1,23 +1,15 @@
- ## Stats 📈
+## About Me:
+BSc in Software Engineering @ BTH 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tr3sp4ss3rexe&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tr3sp4ss3rexe&layout=compact&theme=tokyonight)
+## Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/tr3sp4ss3r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/danielthedaniel) [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/Uncletr3s) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xd3nux@protonmail.com) 
 
-## Contact 📩
+## Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+## 📊 Stats:
+![](https://github-readme-stats.vercel.app/api?username=tr3sp4ss3rexe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tr3sp4ss3rexe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div id="badges">
-  <a href="https://linkedin.com/in/danielthedaniel">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/Uncletr3s">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://discordapp.com/users/tr3sp4ss3r">
-    <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Mail Badge"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Mail-6d4aff?style=for-the-badge&logo=protonmail&logoColor=white" alt="Mail Badge"/>
-  </a>
-</div>
-
+---
+[![](https://visitcount.itsvg.in/api?id=tr3sp4ss3rexe&icon=0&color=0)](https://visitcount.itsvg.in)
