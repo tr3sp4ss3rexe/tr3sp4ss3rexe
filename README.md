@@ -1,17 +1,17 @@
 <p align="center">
-  <i>"Reversing the world!</i>
+  <i>Disassemble reality, one instruction at a time.</i>
 </p>
 
 ---
 
-### 🧠 About Me
-- 🎓 BSc Software Engineering student & Intern @ **Ericsson**
-- 🔍 Reverse Engineering enthusiast with a passion for low-level security and OS internals
-- 🛠️ Into Windows internals, vulnerability research, and dissecting binary beasts
+### About Me
+- BSc Software Engineering student & Intern @ **Ericsson**
+- Reverse Engineering enthusiast with a passion for low-level security and OS internals
+- Into Windows internals, vulnerability research, and dissecting binary beasts
 
 ---
 
-### 🕸️ Connect with Me
+### Connect with Me
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/tr3sp4ss3r) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielthedaniel) 
@@ -20,7 +20,7 @@
 
 ---
 
-### ⚙️ Tech Arsenal
+### Tech Arsenal
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -34,7 +34,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tr3sp4ss3rexe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
