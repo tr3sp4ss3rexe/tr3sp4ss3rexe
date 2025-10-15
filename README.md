@@ -7,7 +7,6 @@
 ### About Me
 - BSc Software Engineering student
 - Reverse Engineering enthusiast with a passion for low-level security and OS internals
-- Into Windows internals, vulnerability research, and dissecting binary beasts
 
 ---
 
