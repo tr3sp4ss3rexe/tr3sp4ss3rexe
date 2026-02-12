@@ -1,5 +1,5 @@
 <p align="center">
-  <i>Disassemble reality, one instruction at a time.</i>
+  <i>Sup big dawg?</i>
 </p>
 
 ---
