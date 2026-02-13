@@ -6,8 +6,7 @@
 
 ### About Me
 - Software Engineer and Computer Scientist
-- Malware and Red Team development enthusiast
-- Reverse Engineering and OS internals enthusiast
+- Malware, Reverse Engineering, OS internals, and ML enthusiast
 
 ---
 
