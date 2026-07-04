@@ -5,8 +5,9 @@
 ---
 
 ### About Me
-- Software Engineer and Computer Scientist
-- Malware, Reverse Engineering, OS internals, and ML enthusiast
+- Software Engineer & Computer Scientist
+- Desktop, Mobile, Embedded Systems & ML
+- Reverse engineering, OS internals & security enthusiast
 
 ---
 
